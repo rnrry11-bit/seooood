@@ -1,0 +1,13 @@
+{
+  "name": "proposal-class-activity",
+  "version": "1.0.0",
+  "description": "프로포즈 대작전: 학급 단어 카드 문장 만들기 활동",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

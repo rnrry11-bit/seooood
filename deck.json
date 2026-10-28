@@ -1,0 +1,544 @@
+{
+  "subject": {
+    "label": "주어",
+    "order": 1,
+    "cards": [
+      {
+        "id": "subject-1",
+        "text": "나는",
+        "on": true
+      },
+      {
+        "id": "subject-2",
+        "text": "우리는",
+        "on": true
+      },
+      {
+        "id": "subject-3",
+        "text": "내 심장이",
+        "on": true
+      },
+      {
+        "id": "subject-4",
+        "text": "내 마음이",
+        "on": true
+      },
+      {
+        "id": "subject-5",
+        "text": "오늘의 내가",
+        "on": true
+      },
+      {
+        "id": "subject-6",
+        "text": "졸린 눈의 내가",
+        "on": true
+      },
+      {
+        "id": "subject-7",
+        "text": "급식 줄에 서 있던 내가",
+        "on": true
+      },
+      {
+        "id": "subject-8",
+        "text": "내 단짝 연필이",
+        "on": true
+      },
+      {
+        "id": "subject-9",
+        "text": "내 와이파이 신호가",
+        "on": true
+      },
+      {
+        "id": "subject-10",
+        "text": "내 주머니 속 젤리가",
+        "on": true
+      },
+      {
+        "id": "subject-11",
+        "text": "달팽이 같은 내가",
+        "on": true
+      },
+      {
+        "id": "subject-12",
+        "text": "방금 일어난 내가",
+        "on": true
+      },
+      {
+        "id": "subject-13",
+        "text": "내 용기가",
+        "on": true
+      },
+      {
+        "id": "subject-14",
+        "text": "우리의 미래가",
+        "on": true
+      }
+    ]
+  },
+  "object": {
+    "label": "목적어",
+    "order": 2,
+    "cards": [
+      {
+        "id": "object-1",
+        "text": "너를",
+        "on": true
+      },
+      {
+        "id": "object-2",
+        "text": "네 웃음을",
+        "on": true
+      },
+      {
+        "id": "object-3",
+        "text": "네 이름을",
+        "on": true
+      },
+      {
+        "id": "object-4",
+        "text": "네 목소리를",
+        "on": true
+      },
+      {
+        "id": "object-5",
+        "text": "네 옆자리를",
+        "on": true
+      },
+      {
+        "id": "object-6",
+        "text": "너와 먹는 급식을",
+        "on": true
+      },
+      {
+        "id": "object-7",
+        "text": "네 별명을",
+        "on": true
+      },
+      {
+        "id": "object-8",
+        "text": "네 손을",
+        "on": true
+      },
+      {
+        "id": "object-9",
+        "text": "무지개 한 조각을",
+        "on": true
+      },
+      {
+        "id": "object-10",
+        "text": "네 마음을",
+        "on": true
+      },
+      {
+        "id": "object-11",
+        "text": "내 마음을",
+        "on": true
+      },
+      {
+        "id": "object-12",
+        "text": "우리의 내일을",
+        "on": true
+      },
+      {
+        "id": "object-13",
+        "text": "너와의 쉬는 시간을",
+        "on": true
+      },
+      {
+        "id": "object-14",
+        "text": "네 하루를",
+        "on": true
+      }
+    ]
+  },
+  "predicate": {
+    "label": "서술어",
+    "order": 3,
+    "cards": [
+      {
+        "id": "predicate-1",
+        "text": "좋아해",
+        "on": true
+      },
+      {
+        "id": "predicate-2",
+        "text": "사랑해",
+        "on": true
+      },
+      {
+        "id": "predicate-3",
+        "text": "응원할게",
+        "on": true
+      },
+      {
+        "id": "predicate-4",
+        "text": "지켜 줄게",
+        "on": true
+      },
+      {
+        "id": "predicate-5",
+        "text": "기다릴게",
+        "on": true
+      },
+      {
+        "id": "predicate-6",
+        "text": "선물할게",
+        "on": true
+      },
+      {
+        "id": "predicate-7",
+        "text": "함께하고 싶어",
+        "on": true
+      },
+      {
+        "id": "predicate-8",
+        "text": "보고 싶어",
+        "on": true
+      },
+      {
+        "id": "predicate-9",
+        "text": "아껴 줄게",
+        "on": true
+      },
+      {
+        "id": "predicate-10",
+        "text": "약속할게",
+        "on": true
+      },
+      {
+        "id": "predicate-11",
+        "text": "고백할게",
+        "on": true
+      },
+      {
+        "id": "predicate-12",
+        "text": "초대할게",
+        "on": true
+      },
+      {
+        "id": "predicate-13",
+        "text": "되고 싶어",
+        "on": true
+      },
+      {
+        "id": "predicate-14",
+        "text": "되어 줄래?",
+        "on": true
+      },
+      {
+        "id": "predicate-15",
+        "text": "함께해 줄래?",
+        "on": true
+      },
+      {
+        "id": "predicate-16",
+        "text": "받아 줄래?",
+        "on": true
+      }
+    ]
+  },
+  "complement": {
+    "label": "보어",
+    "order": 4,
+    "cards": [
+      {
+        "id": "complement-1",
+        "text": "네 단짝이",
+        "on": true
+      },
+      {
+        "id": "complement-2",
+        "text": "네 편이",
+        "on": true
+      },
+      {
+        "id": "complement-3",
+        "text": "네 슈퍼히어로가",
+        "on": true
+      },
+      {
+        "id": "complement-4",
+        "text": "네 우산이",
+        "on": true
+      },
+      {
+        "id": "complement-5",
+        "text": "네 든든한 짝꿍이",
+        "on": true
+      },
+      {
+        "id": "complement-6",
+        "text": "네 개그 파트너가",
+        "on": true
+      },
+      {
+        "id": "complement-7",
+        "text": "네 보조배터리가",
+        "on": true
+      },
+      {
+        "id": "complement-8",
+        "text": "네 첫 번째 팬이",
+        "on": true
+      },
+      {
+        "id": "complement-9",
+        "text": "네 숙제 친구가",
+        "on": true
+      },
+      {
+        "id": "complement-10",
+        "text": "네 별똥별이",
+        "on": true
+      },
+      {
+        "id": "complement-11",
+        "text": "네 비밀 친구가",
+        "on": true
+      },
+      {
+        "id": "complement-12",
+        "text": "네 응원단장이",
+        "on": true
+      }
+    ]
+  },
+  "modifier": {
+    "label": "관형어",
+    "order": 5,
+    "cards": [
+      {
+        "id": "modifier-1",
+        "text": "반짝이는",
+        "on": true
+      },
+      {
+        "id": "modifier-2",
+        "text": "세상에 하나뿐인",
+        "on": true
+      },
+      {
+        "id": "modifier-3",
+        "text": "말랑말랑한",
+        "on": true
+      },
+      {
+        "id": "modifier-4",
+        "text": "방금 구운",
+        "on": true
+      },
+      {
+        "id": "modifier-5",
+        "text": "한 번도 안 써 본",
+        "on": true
+      },
+      {
+        "id": "modifier-6",
+        "text": "와이파이보다 빠른",
+        "on": true
+      },
+      {
+        "id": "modifier-7",
+        "text": "구름처럼 푹신한",
+        "on": true
+      },
+      {
+        "id": "modifier-8",
+        "text": "비밀스러운",
+        "on": true
+      },
+      {
+        "id": "modifier-9",
+        "text": "슈퍼 울트라",
+        "on": true
+      },
+      {
+        "id": "modifier-10",
+        "text": "달콤한",
+        "on": true
+      },
+      {
+        "id": "modifier-11",
+        "text": "엉뚱한",
+        "on": true
+      },
+      {
+        "id": "modifier-12",
+        "text": "따끈따끈한",
+        "on": true
+      },
+      {
+        "id": "modifier-13",
+        "text": "별빛 같은",
+        "on": true
+      },
+      {
+        "id": "modifier-14",
+        "text": "초코맛 나는",
+        "on": true
+      }
+    ]
+  },
+  "adverbial": {
+    "label": "부사어",
+    "order": 6,
+    "cards": [
+      {
+        "id": "adverbial-1",
+        "text": "가장 먼저",
+        "on": true
+      },
+      {
+        "id": "adverbial-2",
+        "text": "진심으로",
+        "on": true
+      },
+      {
+        "id": "adverbial-3",
+        "text": "엄청나게",
+        "on": true
+      },
+      {
+        "id": "adverbial-4",
+        "text": "별처럼 반짝이게",
+        "on": true
+      },
+      {
+        "id": "adverbial-5",
+        "text": "하루 종일",
+        "on": true
+      },
+      {
+        "id": "adverbial-6",
+        "text": "몰래몰래",
+        "on": true
+      },
+      {
+        "id": "adverbial-7",
+        "text": "두근두근",
+        "on": true
+      },
+      {
+        "id": "adverbial-8",
+        "text": "용기 내서",
+        "on": true
+      },
+      {
+        "id": "adverbial-9",
+        "text": "달달하게",
+        "on": true
+      },
+      {
+        "id": "adverbial-10",
+        "text": "눈치 보지 않고",
+        "on": true
+      },
+      {
+        "id": "adverbial-11",
+        "text": "솜사탕처럼 폭신하게",
+        "on": true
+      },
+      {
+        "id": "adverbial-12",
+        "text": "지구 끝까지",
+        "on": true
+      },
+      {
+        "id": "adverbial-13",
+        "text": "끊김 없이",
+        "on": true
+      },
+      {
+        "id": "adverbial-14",
+        "text": "오늘부터",
+        "on": true
+      },
+      {
+        "id": "adverbial-15",
+        "text": "쉬는 시간마다",
+        "on": true
+      },
+      {
+        "id": "adverbial-16",
+        "text": "아주 조금 부끄럽지만",
+        "on": true
+      }
+    ]
+  },
+  "interjection": {
+    "label": "독립어",
+    "order": 7,
+    "cards": [
+      {
+        "id": "interjection-1",
+        "text": "저기,",
+        "on": true
+      },
+      {
+        "id": "interjection-2",
+        "text": "있잖아,",
+        "on": true
+      },
+      {
+        "id": "interjection-3",
+        "text": "짜잔!",
+        "on": true
+      },
+      {
+        "id": "interjection-4",
+        "text": "안녕!",
+        "on": true
+      },
+      {
+        "id": "interjection-5",
+        "text": "두둥!",
+        "on": true
+      },
+      {
+        "id": "interjection-6",
+        "text": "헉!",
+        "on": true
+      },
+      {
+        "id": "interjection-7",
+        "text": "야호!",
+        "on": true
+      },
+      {
+        "id": "interjection-8",
+        "text": "얘들아,",
+        "on": true
+      },
+      {
+        "id": "interjection-9",
+        "text": "잠깐만!",
+        "on": true
+      },
+      {
+        "id": "interjection-10",
+        "text": "세상에,",
+        "on": true
+      },
+      {
+        "id": "interjection-11",
+        "text": "드디어,",
+        "on": true
+      },
+      {
+        "id": "interjection-12",
+        "text": "사실은,",
+        "on": true
+      },
+      {
+        "id": "interjection-13",
+        "text": "쉿, 비밀인데,",
+        "on": true
+      },
+      {
+        "id": "interjection-14",
+        "text": "그래서 말인데,",
+        "on": true
+      }
+    ]
+  }
+}

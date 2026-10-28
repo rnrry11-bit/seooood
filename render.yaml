@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: proposal-class-activity
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /healthz
+    envVars:
+      - key: TEACHER_PIN
+        sync: false
